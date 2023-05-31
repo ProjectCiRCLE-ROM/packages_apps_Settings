@@ -22,6 +22,12 @@
     <string name="pif_data_title">Select device spoof preset</string>
     <string name="pif_data_summary">Select device spoof preset file to override device properties in applications</string>
 
+    <!-- Hide developer status -->
+    <string name="search">Search</string>
+    <string name="search_apps">Search apps</string>
+    <string name="hide_developer_status_title">Hide developer status</string>
+    <string name="hide_developer_status_summary">Hide developer status from apps</string>
+
     <!-- User selectable app spoofing -->
     <string name="user_selectable_app_spoofing_title">Select apps to spoof</string>
     <string name="user_selectable_app_spoofing_summary">Choose which apps to spoof</string>
