@@ -16,7 +16,7 @@
     <!-- Device spoofing -->
     <string name="device_spoof_title">Спуфинг устройства</string>
     <string name="circle_pih_enabled_title">"Включить спуфинг"</string>
-    <string name="device_spoof_summary">"Спуф устройтсва и ключей Play Integrity"</string>
+    <string name="device_spoof_summary">"Спуф устройства и ключей Play Integrity"</string>
     <string name="keybox_data_title">"Выбрать Keybox"</string>
     <string name="keybox_data_summary">"Выберите файл Keybox для подмены ключа аттестации"</string>
     <string name="pif_data_title">"Выбрать PIF"</string>
@@ -35,7 +35,7 @@
 
     <!-- Device name, seen in Android version -->
     <string name="about_device_name">Модель устройства</string>
-    <string name="maintainer">"Мейнтейнер"</string>
+    <string name="maintainer">"Сопровождающий"</string>
      
     <!-- Hardware info -->
     <string name="platform_revision">Платформа SoC</string>
