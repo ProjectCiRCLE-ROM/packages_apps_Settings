@@ -1415,7 +1415,7 @@
     <string name="fold_lock_behavior_title" msgid="786228803694268449">"Cihaz katlıyken uygulamaları kullanmaya devam edin"</string>
     <string name="disable_game_default_frame_rate_title" msgid="3712908601744143753">"Oyunlarda varsayılan kare hızını devre dışı bırak"</string>
     <string name="disable_game_default_frame_rate_summary" msgid="4436762704707434225">"Oyunlarda maksimum kare hızının <xliff:g id="FRAME_RATE">%1$d</xliff:g> Hz ile sınırlandırılmasını devre dışı bırakın"</string>
-    <string name="peak_refresh_rate_title" msgid="2056355754210341011">"Smooth Display"</string>
+    <string name="peak_refresh_rate_title" msgid="2056355754210341011">"Akıcı ekran"</string>
     <string name="peak_refresh_rate_summary" msgid="3212309985294885790">"Bazı içerikler için yenileme hızını otomatik olarak <xliff:g id="ID_1">%1$d</xliff:g> Hz\'e yükseltir. Pil kullanımını artırır."</string>
     <string name="force_high_refresh_rate_toggle" msgid="3325789621928312050">"Yoğun yenileme hızına zorla"</string>
     <string name="force_high_refresh_rate_desc" msgid="7794566420873814875">"Geliştirilmiş dokunma duyarlılığı ve animasyon kalitesi için en yüksek yenileme hızı. Pil kullanımını artırır."</string>
