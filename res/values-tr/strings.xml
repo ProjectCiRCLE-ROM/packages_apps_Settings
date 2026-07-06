@@ -1449,7 +1449,7 @@
     <string name="night_display_summary_on_auto_mode_custom" msgid="2096677025343425755">"Şu saatte otomatik olarak kapatılacak: <xliff:g id="ID_1">%1$s</xliff:g>."</string>
     <string name="night_display_summary_on_auto_mode_twilight" msgid="8070517472000680361">"Güneş doğduğunda otomatik olarak kapatılacak"</string>
     <string name="night_display_not_currently_on" msgid="6600205753103093827">"Gece Işığı şu anda açık değil"</string>
-    <string name="twilight_mode_location_off_dialog_message" msgid="4559150893687124801">"Cihaz konumunun güneşin batışı ve doğuşu saatlerinizi belirlemesi gerekti."</string>
+    <string name="twilight_mode_location_off_dialog_message" msgid="4559150893687124801">"Cihaz konumu, güneşin batış ve doğuş saatlerinin belirlenmesi için gerekli."</string>
     <string name="twilight_mode_launch_location" msgid="7799112373591153956">"Konum ayarları"</string>
     <string name="twilight_mode_pending_location" msgid="6829434234071614405">"Konum hizmetleri etkin. Program, konum belirlendikten sonra etkinleştirilir."</string>
     <string name="dark_ui_activation_on_manual" msgid="1541006734577325234">"Şimdi aç"</string>
