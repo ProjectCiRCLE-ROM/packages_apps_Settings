@@ -45,4 +45,9 @@
     <string name="proximity_wake_title">Prevent accidental wake-up</string>
     <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
 
+    <!-- Keep battery saver enabled while charging -->
+    <string name="battery_saver_keep_enabled_while_charging_title">Stay on while charging</string>
+    <string name="battery_saver_keep_enabled_while_charging_summary">Don\'t turn off Battery Saver when plugged in</string>
+    <string name="keywords_battery_saver_keep_enabled_while_charging">battery saver, charging, charge, plugged in, power saver, battery</string>
+
 </resources>
