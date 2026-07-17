@@ -45,4 +45,9 @@
     <string name="proximity_wake_title">"Kazayla açılmayı engelle"</string>
     <string name="proximity_wake_summary">"Ekranı açmadan önce yakınlık sensörünü kontrol et"</string>
 
+    <!-- Keep battery saver enabled while charging -->
+    <string name="battery_saver_keep_enabled_while_charging_title">Şarj ederken açık tut</string>
+    <string name="battery_saver_keep_enabled_while_charging_summary">Takılıyken pil tasarrufunu kapatma</string>
+    <string name="keywords_battery_saver_keep_enabled_while_charging">pil tasarrufu, şarj, takılı, güç tasarrufu, pil</string>
+
 </resources>
