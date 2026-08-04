@@ -22,12 +22,6 @@
     <string name="pif_data_title">"Cihaz gizleme ayarı seç"</string>
     <string name="pif_data_summary">"Uygulamalarda cihaz bilgilerinin üstüne yazmak için cihaz gizleme ayar dosyası seç"</string>
 
-    <!-- Hide developer status -->
-    <string name="search">"Ara"</string>
-    <string name="search_apps">"Uygulama ara"</string>
-    <string name="hide_developer_status_title">"Geliştirici durumunu gizle"</string>
-    <string name="hide_developer_status_summary">"Geliştirici durumunu uygulamalardan gizle"</string>
-
     <!-- User selectable app spoofing -->
     <string name="user_selectable_app_spoofing_title">"Gizlenecek uygulamaları seç"</string>
     <string name="user_selectable_app_spoofing_summary">"Cihaz bilgisi gizlenecek uygulamaları seç"</string>

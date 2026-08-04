@@ -22,12 +22,6 @@
     <string name="pif_data_title">"Выбрать PIF"</string>
     <string name="pif_data_summary">"Выберите файл PIF для спуфа параметров устройства в приложениях"</string>
 
-    <!-- Hide developer status -->
-    <string name="search">"Поиск"</string>
-    <string name="search_apps">"Поиск приложений"</string>
-    <string name="hide_developer_status_title">"Скрыть режим разработчика"</string>
-    <string name="hide_developer_status_summary">"Скрыть режим разработчика от приложений"</string>
-
     <!-- User selectable app spoofing -->
     <string name="user_selectable_app_spoofing_title">"Приложения для спуфа"</string>
     <string name="user_selectable_app_spoofing_summary">"Выбрать приложения, для которых применять спуфинг устройства"</string>

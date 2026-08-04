@@ -22,12 +22,6 @@
     <string name="pif_data_title">Seleccionar preset de spoof de dispositivo</string>
     <string name="pif_data_summary">Selecciona un preset de spoof de dispositivo para anular las propiedades del dispositivo en las aplicaciones</string>
 
-    <!-- Hide developer status -->
-    <string name="search">Buscar</string>
-    <string name="search_apps">Buscar apps</string>
-    <string name="hide_developer_status_title">Ocultar estado de desarrollador</string>
-    <string name="hide_developer_status_summary">Ocultar estado de desarrollador de las aplicaciones</string>
-
     <!-- User selectable app spoofing -->
     <string name="user_selectable_app_spoofing_title">Seleccionar apps para spoofear</string>
     <string name="user_selectable_app_spoofing_summary">Elige qué apps spoofear</string>
